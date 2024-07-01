@@ -6,9 +6,11 @@ Tableau provides a wide range of features, including data preparation, interacti
 Problem Statement:
 
 Build a HR dashboard in tableau to track and analyze attrition in an organization
+
 Tools Used:
 
-Tableau Public:
+Microsoft Excel
+Tableau Public
  
 HR Attrition Dashboard:
 
