@@ -9,7 +9,7 @@ Build a HR dashboard in tableau to track and analyze attrition in an organizatio
 
 Tools Used:
 
-Microsoft Excel
+Microsoft Excel,
 Tableau Public
  
 HR Attrition Dashboard:
